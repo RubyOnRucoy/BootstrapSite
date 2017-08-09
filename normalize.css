@@ -17,6 +17,7 @@ html {
  */
 #backimg1 {
  background-size: cover; 
+ vertical-align: bottom;
 }
 body {
   margin: 0;
