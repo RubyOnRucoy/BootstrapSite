@@ -15,10 +15,11 @@ html {
 /**
  * Remove default margin.
  */
-
+#backimg1 {
+ background-size: cover; 
+}
 body {
   margin: 0;
-  background-image: url("https://4.bp.blogspot.com/-dMSIvVdE8sA/UzGWZ06jElI/AAAAAAAAtwY/Y0Jbl2LvLvk/s0/El+Capitan+Yosemite+National+Park_Ultra+HD.jpg");
 }
 
 /* HTML5 display definitions
